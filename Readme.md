@@ -9,8 +9,8 @@ Android OS Download : https://konstakang.com/devices/rpi3/
 
 How to install:
 
-Follow the official Raspberry Pi instructions for writing the image to the SD card.
-  └ https://www.raspberrypi.org/documentation/installation/installing-images/windows.md
+Follow the official Raspberry Pi instructions for writing the image to the SD card ([Download link](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)).
+
 
 
 ```sh
