@@ -4,8 +4,8 @@
 ## 사전준비
 
 ```sh
-Raspberry pi  Model 3 B
-Android OS Download  https://konstakang.com/devices/rpi3/
+Raspberry pi : Model 3 B
+Android OS Download : https://konstakang.com/devices/rpi3/
 ```
 
 How to install :
