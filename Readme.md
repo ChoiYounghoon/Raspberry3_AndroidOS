@@ -6,10 +6,7 @@
 ```sh
 
 ```
-1. Raspberry pi : Model 3 B
-
-2. Android OS Download : https://konstakang.com/devices/rpi3/
-
-3. How to install :
-
-Follow the official Raspberry Pi instructions for writing the image to the SD card ([Download link](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)).
+> **Raspberry pi** : Model 3 B  
+> **Android OS Download** : https://konstakang.com/devices/rpi3/  
+> **How to install** :  
+>> Follow the official Raspberry Pi instructions for writing the image to the SD card ([Download link](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)).  
