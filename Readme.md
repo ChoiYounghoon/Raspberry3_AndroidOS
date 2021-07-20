@@ -12,4 +12,4 @@
 >> Follow the official Raspberry Pi instructions for writing the image to the SD card ([Download link](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)).  
 
 >> ![image](https://user-images.githubusercontent.com/16375921/126333508-735dbfc6-d32a-4727-82f1-9c1192c4e183.png)
-
+> **● Opengapps Download (Google Playstore)** : https://opengapps.org/
