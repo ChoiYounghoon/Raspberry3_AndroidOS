@@ -1,17 +1,17 @@
 # 라즈베리파이3 안드로이드 OS 설치
 > 안드로이드 OS를 설치해보자
 
-[![Raspberry_model][Raspberry-image]][Raspberry-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 ![](../header.png)
 ## 사전준비
 
-vscode 설치 : https://code.visualstudio.com/
-git 설치 : https://git-scm.com/downloads
+Raspberry pi 3 Model B
+Android OS Download : https://konstakang.com/devices/rpi3/
 
-golang 설치 (path 설정):
+How to install:
+
+Follow the official Raspberry Pi instructions for writing the image to the SD card.
+  └ https://www.raspberrypi.org/documentation/installation/installing-images/windows.md
+
 
 ```sh
 윈도우키 + R > systdm.cpl ,3
@@ -36,11 +36,3 @@ go env -w GO111MODULE=auto
 GitLens : git 관리
 Git History : commit/push 이력 관리
 ```
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
