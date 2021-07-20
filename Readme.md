@@ -1,7 +1,7 @@
 # 라즈베리파이3 안드로이드 OS 설치
 > 안드로이드 OS를 설치해보자
 
-[![Raspberry_model][npm-image]][npm-url]
+[![Raspberry_model][Raspberry-image]][Raspberry-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
